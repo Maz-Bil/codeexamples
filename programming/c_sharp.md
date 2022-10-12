@@ -16,3 +16,8 @@
 ## Managed threading basics
 
 - [Managed threading best practices](https://learn.microsoft.com/en-us/dotnet/standard/threading/managed-threading-best-practices)
+
+## System.Threading Namespace in .NET 6
+
+- [ThreadStart Delegate](https://learn.microsoft.com/en-us/dotnet/api/system.threading.threadstart?view=net-6.0)
+- [ParameterizedThreadStart Delegate](https://learn.microsoft.com/en-us/dotnet/api/system.threading.parameterizedthreadstart?view=net-6.0)
